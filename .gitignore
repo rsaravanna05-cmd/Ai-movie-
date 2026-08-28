@@ -1,0 +1,17 @@
+videos/
+scripts/
+generated_movies/
+.temp/
+*.pyc
+__pycache__/
+.DS_Store
+.env
+*.log
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
